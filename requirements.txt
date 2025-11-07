@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+pillow
+joblib
+tensorflow-cpu
+scikit-learn
+python-multipart
+huggingface_hub>=0.24
