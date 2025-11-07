@@ -1,9 +1,10 @@
 fastapi
 uvicorn
+tensorflow
 numpy
-pillow
+Pillow
 joblib
-tensorflow-cpu
 scikit-learn
+huggingface_hub
+gunicorn
 python-multipart
-huggingface_hub>=0.24
