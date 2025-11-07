@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+gunicorn
 tensorflow-cpu
 numpy
 Pillow
@@ -7,4 +8,3 @@ joblib
 scikit-learn
 huggingface_hub
 python-multipart
-gunicorn
